@@ -4,11 +4,16 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 happy_developing
 
 ### Team Members
-Xu,Yizhi	xuyizhi@gmail.com	
-Jai Shah	jai.s@somaiya.edu
-Zhijun Han	hanzhijun0217@gmail.com
-Hadi Hajieghray	Hadi.Hajieghrary@Gmail.Com		
-Alla Hill	allabhill@gmail.com
+
+* Xu,Yizhi	xuyizhi@gmail.com	
+
+* Jai Shah	jai.s@somaiya.edu
+
+* Zhijun Han	hanzhijun0217@gmail.com
+
+* Hadi Hajieghray	Hadi.Hajieghrary@Gmail.Com		
+
+* Alla Hill	allabhill@gmail.com
 
 
 Please use **one** of the two installation options, either native **or** docker installation.
